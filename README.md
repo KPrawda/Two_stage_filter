@@ -10,7 +10,7 @@ V. Välimäki and K. Prawda. “Late-Reverberation Synthesis Using Interleaved V
 
 See companion website and listen to sound examples: http://research.spa.aalto.fi/publications/papers/ieee-spl-two-stage/
 
-Cite the paper:
+**Cite the paper as:**<br>
 @ARTICLE{valimaki2024_two_stage,<br>
   author={Välimäki, Vesa and Prawda, Karolina and Schlecht, Sebastian J.},<br>
   journal={IEEE Signal Processing Letters}, <br>
