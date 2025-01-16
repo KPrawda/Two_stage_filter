@@ -11,14 +11,13 @@ V. Välimäki and K. Prawda. “Late-Reverberation Synthesis Using Interleaved V
 See companion website and listen to sound examples: http://research.spa.aalto.fi/publications/papers/ieee-spl-two-stage/
 
 Cite the paper:
-@ARTICLE{valimaki2024_two_stage,
-  author={Välimäki, Vesa and Prawda, Karolina and Schlecht, Sebastian J.},
-  journal={IEEE Signal Processing Letters}, 
-  title={Two-Stage Attenuation Filter for Artificial Reverberation}, 
-  year={2024},
-  volume={31},
-  number={},
-  pages={391--395},
-  keywords={IIR filters;Attenuation;Gain;Band-pass filters;Delays;Delay lines;Reverberation;Acoustic signal processing;audio systems;digital filters;equalizers;room acoustics},
+@ARTICLE{valimaki2024_two_stage,<br>
+  author={Välimäki, Vesa and Prawda, Karolina and Schlecht, Sebastian J.},<br>
+  journal={IEEE Signal Processing Letters}, <br>
+  title={Two-Stage Attenuation Filter for Artificial Reverberation}, <br>
+  year={2024},<br>
+  volume={31},<br>
+  number={},<br>
+  pages={391--395},<br>
   doi={10.1109/LSP.2024.3352510}}
 
